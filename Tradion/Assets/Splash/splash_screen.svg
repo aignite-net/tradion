@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="450" viewBox="0 0 450 450" role="img" aria-label="Tradion logo (dark)">
+  <!-- Background -->
+  <rect width="450" height="450" rx="36" fill="#0B1220"></rect>
+  <!-- Outer diamond -->
+  <g transform="translate(0,0)">
+    <polygon points="225,95 315,225 225,355 135,225" fill="#22D3EE"></polygon>
+    <polygon points="225,135 280,225 225,315 170,225" fill="#0B1220"></polygon>
+    <circle cx="225" cy="225" r="10" fill="#22D3EE"></circle>
+  </g>
+  <!-- Title -->
+  <text x="225" y="410" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#E6EEF6" letter-spacing="1">TRADION</text>
+  <!-- Currency tag (small) -->
+  <g transform="translate(270,64)">
+    <text x="0" y="0" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#0B1220">⟐</text>
+  </g>
+</svg>
