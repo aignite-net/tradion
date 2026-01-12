@@ -1,10 +1,12 @@
 ---
-description: Tradion's Landing Page
+description: EloqSense's Landing Page
 ---
 
 # Introduction
 
-Tradion is a template project for LLM-Centric, Agentic AI projects in .NET. Read on to understand why this was started and how you can contribute.
+EloqSense is a smart Calendar / Scheduler for your team. It is designed to help you manage your time and focus on what matters most. You largely interact with EloqSense through its conversational interface - on Desktop (Windows, Mac and Linux), Mobile (iOS, Android), and the Web.
+
+It is not a full-fledged application - you will not find it feature-rich, because that is not the purpose of this project. This is a template project for LLM-Centric, Agentic AI projects in .NET. Read on to understand why this was started and how you can contribute.
 
 # Initial Idea
 
@@ -26,11 +28,11 @@ Generally, every product gets created in two phases. The first phase (product-ma
 
 Phase-1 and Phase-2 repeatedly iterates to get the perfect balance for a viable business and the best customer value.
 
-# Where does Tradion fit?
+# Where does EloqSense fit?
 
-Tradion fits both the above phases of an AI-based .Net product. What we want to do is to decouple the backend and the front-end in such a manner that phase-1 can work with a minimal backend, and concentrate largely on the best front-end for demonstrations and a simple backend business logic. Phase-2 will be largely to take the backend, and build it for scale.
+EloqSense fits both the above phases of an AI-based .Net product. What we want to do is to decouple the backend and the front-end in such a manner that phase-1 can work with a minimal backend, and concentrate largely on the best front-end for demonstrations and a simple backend business logic. Phase-2 will be largely to take the backend, and build it for scale.
 
-# Ethos of Tradion
+# Ethos of EloqSense
 
 Well, LLMs are real. It is time that we embrace them - unlike in the initial days - even until 2024 or so, they were just toys. 2025 is the year to embrace them in products for real value. Any year before this was, well, a series of experiments to find the right "plateau of productivity".
 
@@ -42,12 +44,7 @@ While the likes of ChatGpt, Claude, etc. are great for generating small products
 - Robust API-first design, MCP-ready for future-proofing
 - Cloud-agnostic backend, but also edge-ready
 
-# What is Tradion?
-
-Tradion is a .Net-based product. The Tradion project is to be used as a starting point for any of your own AI-based products.
-
-Tradion as such is a usable mock-trading gaming product. The game is simple: you play as a trader with an initial amount of ⟐30000 (i.e., 30k _Tradons_). Tradons are the official currency in the Tradion Universe, with the symbol ⟐ (a diamond with a dot in the center). Tradion shows the market price of various stocks (TBD: Fake market / real market exposing an API), and you can buy or sell them using the initial amount given to you. Basic portfolio list, dashboards, etc. are also provided for your insights.
-
+# What do we demonstrate?
 The intent is to demonstrate enterprise-grade LLM-based products:
 
 - Scaling to upto 5000+ concurrent users
@@ -62,7 +59,7 @@ The backend is simple use of APIs to OpenAI / Ollama models (which, of course, c
 
 # How can you contribute?
 
-Tradion's github page is here:
+EloqSense's github page is here:
 
 [Starting point for LLM-Centric, Agentic AI, and the next-big-thing .NET projects](https://github.com/aignite-net/tradion)
 

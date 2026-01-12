@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "EloqSense",
+  "display": "standalone",
+  "name": "EloqSense",
+  "short_name": "EloqSense",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

@@ -32,6 +32,6 @@ jobs:
       - name: Setup MSBuild
         uses: microsoft/setup-msbuild@v1.3.1
 
-      - name: Build Tradion (Debug)
+      - name: Build EloqSense (Debug)
         shell: pwsh
-        run: msbuild ./Tradion/Tradion.csproj /r
+        run: msbuild ./EloqSense/EloqSense.csproj /r
